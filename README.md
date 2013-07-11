@@ -1,7 +1,11 @@
 js-sanity
 =========
 
-Javascript Sanity Talk Notes
+#Javascript Sanity Talk Notes
+
+##JS Bin Demos
+[Backbone demo](http://jsbin.com/arihiw/2/edit)
+[Marionette demo](http://jsbin.com/anuyuk/2/edit)
 
 ##Backbone.js Resources
 
